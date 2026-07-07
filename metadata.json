@@ -1,0 +1,6 @@
+{
+  "name": "AI Interior Design Consultant",
+  "description": "An interactive room makeover app that uses AI to reimagine your space in different styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
